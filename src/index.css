@@ -1,5 +1,63 @@
 body {
-  margin: 0;
-  padding: 0;
+  margin: 25%;
+  margin-top: 90px;
+  padding:0px;
   font-family: sans-serif;
+}
+/* div {
+
+} */
+button {
+  margin-right: 15px;
+  margin-top: 15px;
+    background-color: dodgerblue;
+    color: antiquewhite;
+    border: 2px solid antiquewhite;
+    text-transform: uppercase;
+}
+input{
+  margin-top: 20px;
+}
+div{
+  margin: auto;
+  background-color: dodgerblue;
+  border-radius: 5px;
+  padding: 5px;
+  width: auto;
+
+}
+footer {
+  color: #363636;
+  margin-top: 15px;
+  width: 100%;
+}
+
+p {
+  color: antiquewhite;
+}
+
+footer:link {
+  color: #363636;
+}
+ul {
+  color: antiquewhite;
+}
+ol {
+  color: antiquewhite;
+}
+.container {
+  max-width: 50%;
+  max-height: 600px;
+}
+.features {
+  margin: auto;
+  float: clear;
+}
+span {
+  display:inline-block;
+  color: antiquewhite;
+}
+
+h2 {
+  color: antiquewhite;
 }

@@ -2,7 +2,7 @@ import React from 'react';
 
 const styles = {
   todo: { cursor: 'pointer' },
-  complete: { color: 'green', textDecoration: 'line-through' },
+  complete: { color: 'steelblue', textDecoration: 'line-through' },
 }
 
 const Todo = ({ id, name, complete, todoClick }) => (
